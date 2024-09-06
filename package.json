@@ -50,7 +50,7 @@
     "dotenv": "^5.0.1",
     "final-fs": "^1.6.0",
     "inflection": "^1.10.0",
-    "mkdirp": "~0.5.0",
+    "mkdirp": "~0.5.6",
     "parse-database-url": "~0.3.0",
     "rc": "^1.2.8",
     "resolve": "^1.19.0",
